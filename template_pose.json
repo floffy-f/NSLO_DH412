@@ -1,0 +1,31 @@
+{
+	"period": "period name",
+	"year begin": 2020,
+	"year end": 2020,
+	"apsaras": [
+		{
+			"positions": {
+				"foot 1": [0, 0],
+				"foot 2": [0, 0],
+				"knee 1": [0, 0],
+				"knee 2": [0, 0],
+				"belly": [0, 0],
+				"elbow 1": [0, 0],
+				"elbow 2": [0, 0],
+				"hand 1": [0, 0],
+				"hand 2": [0, 0],
+				"eye 1": [0, 0],
+				"eye 2": [0, 0]
+			},
+			"bad quality image": false,
+			"grottoe": "my grottoe name",
+			"file": "my file name",
+			"__comment": "put a comment here if there is an issue with this sample"
+		}
+	],
+	"__comment": "put a comment here if there is an issue you want to mention regarding your part of the annotation",
+	"authors": [
+		"If you used some help by other people, mention their names here so that they don't get forgotten",
+		"Flo"
+	]
+}
