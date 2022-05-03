@@ -15,10 +15,7 @@
 				"hand 1": [0, 0],
 				"hand 2": [0, 0],
 				"eye 1": [0, 0],
-				"eye 2": [0, 0], 
-				"shoulder 1": [0, 0], 
-				"shoulder 2": [0, 0]
-
+				"eye 2": [0, 0]
 			},
 			"bad quality image": false,
 			"grottoe": "my grottoe name",
