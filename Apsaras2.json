@@ -1,31 +1,498 @@
 {
-	"period": "period name",
+	"period": "beizhou",
 	"year begin": 2020,
 	"year end": 2020,
 	"apsaras": [
 		{
 			"positions": {
-				"foot 1": [0, 0],
-				"foot 2": [0, 0],
-				"knee 1": [0, 0],
-				"knee 2": [0, 0],
-				"belly": [0, 0],
-				"elbow 1": [0, 0],
-				"elbow 2": [0, 0],
-				"hand 1": [0, 0],
-				"hand 2": [0, 0],
-				"eye 1": [0, 0],
-				"eye 2": [0, 0]
+				"foot 1": [-1, -1],
+				"foot 2": [-1, -1],
+				"knee 1": [111, 201],
+				"knee 2": [36, 181],
+				"belly": [56, 130],
+				"elbow 1": [95, 125],
+				"elbow 2": [-1, -1],
+				"hand 1": [145, 116],
+				"hand 2": [-1, -1],
+				"eye 1": [70, 50],
+				"eye 2": [61, 50],
+				"shoulder 1": [84, 84], 
+				"shoulder 2": [46, 81]
+			},
+			"bad quality image": true,
+			"grottoe": "290",
+			"file": "beizhou-290-x6",
+			"__comment": "put a comment here if there is an issue with this sample"
+		},
+		{
+			"positions": {
+				"foot 1": [-1, -1],
+				"foot 2": [-1, -1],
+				"knee 1": [85, 163],
+				"knee 2": [67, 173],
+				"belly": [49, 116],
+				"elbow 1": [97, 126],
+				"elbow 2": [15, 127],
+				"hand 1": [74, 141],
+				"hand 2": [18, 82],
+				"eye 1": [48, 62],
+				"eye 2": [57, 63],
+				"shoulder 1": [77, 90], 
+				"shoulder 2": [39, 90]
+			},
+			"bad quality image": true,
+			"grottoe": "290",
+			"file": "beizhou-290-x8",
+			"__comment": "put a comment here if there is an issue with this sample"
+		},
+		{
+			"positions": {
+				"foot 1": [-1, -1],
+				"foot 2": [-1, -1],
+				"knee 1": [84, 185],
+				"knee 2": [67, 174],
+				"belly": [40, 130],
+				"elbow 1": [86, 123],
+				"elbow 2": [2, 113],
+				"hand 1": [120, 111],
+				"hand 2": [37, 91],
+				"eye 1": [56, 65],
+				"eye 2": [46, 66],
+				"shoulder 1": [30, 86], 
+				"shoulder 2": [66, 95]
+			},
+			"bad quality image": true,
+			"grottoe": "290",
+			"file": "beizhou-290-x9",
+			"__comment": "put a comment here if there is an issue with this sample"
+		}, 
+		{
+			"positions": {
+				"foot 1": [-1, -1],
+				"foot 2": [-1, -1],
+				"knee 1": [-1, -1],
+				"knee 2": [-1, -1],
+				"belly": [64, 163],
+				"elbow 1": [99, 163],
+				"elbow 2": [37, 160],
+				"hand 1": [143, 168],
+				"hand 2": [26, 120],
+				"eye 1": [71, 103],
+				"eye 2": [59, 105],
+				"shoulder 1": [77, 135], 
+				"shoulder 2": [43, 129]
+			},
+			"bad quality image": true,
+			"grottoe": "290",
+			"file": "beizhou-290-y2",
+			"__comment": "put a comment here if there is an issue with this sample"
+		}, 
+		{
+			"positions": {
+				"foot 1": [-1, -1],
+				"foot 2": [-1, -1],
+				"knee 1": [-1, -1],
+				"knee 2": [-1, -1],
+				"belly": [82, 150],
+				"elbow 1": [124, 150],
+				"elbow 2": [55, 149],
+				"hand 1": [172, 160],
+				"hand 2": [13, 141],
+				"eye 1": [79, 89],
+				"eye 2": [68, 88],
+				"shoulder 1": [69, 123], 
+				"shoulder 2": [103, 112]
+			},
+			"bad quality image": true,
+			"grottoe": "290",
+			"file": "beizhou-290-y3",
+			"__comment": "put a comment here if there is an issue with this sample"
+		}, 
+		{
+			"positions": {
+				"foot 1": [104, 211],
+				"foot 2": [94, 214],
+				"knee 1": [86, 181],
+				"knee 2": [85, 174],
+				"belly": [45, 156],
+				"elbow 1": [90, 141],
+				"elbow 2": [11, 117],
+				"hand 1": [120, 134],
+				"hand 2": [28, 90],
+				"eye 1": [65, 95],
+				"eye 2": [53, 94],
+				"shoulder 1": [67, 116], 
+				"shoulder 2": [32, 116]
+			},
+			"bad quality image": true,
+			"grottoe": "290",
+			"file": "beizhou-290-y4",
+			"__comment": "put a comment here if there is an issue with this sample"
+		},
+		{
+			"positions": {
+				"foot 1": [75, 139],
+				"foot 2": [69, 126],
+				"knee 1": [114, 141],
+				"knee 2": [85, 151],
+				"belly": [45, 156],
+				"elbow 1": [198, 66],
+				"elbow 2": [118, 93],
+				"hand 1": [207, 24],
+				"hand 2": [79, 106],
+				"eye 1": [169, 56],
+				"eye 2": [159, 57],
+				"shoulder 1": [176, 75], 
+				"shoulder 2": [140, 74]
+			},
+			"bad quality image": true,
+			"grottoe": "290",
+			"file": "beizhou-290-y8",
+			"__comment": "put a comment here if there is an issue with this sample"
+		}, 
+		{
+			"positions": {
+				"foot 1": [-1, -1],
+				"foot 2": [-1, -1],
+				"knee 1": [149, 167],
+				"knee 2": [141, 186],
+				"belly": [185, 126],
+				"elbow 1": [212, 126],
+				"elbow 2": [157, 124],
+				"hand 1": [222, 98],
+				"hand 2": [185, 105],
+				"eye 1": [193, 66],
+				"eye 2": [182, 62],
+				"shoulder 1": [198, 93], 
+				"shoulder 2": [162, 93]
+			},
+			"bad quality image": true,
+			"grottoe": "290",
+			"file": "beizhou-290-z3",
+			"__comment": "put a comment here if there is an issue with this sample"
+		}, 
+		{
+			"positions": {
+				"foot 1": [-1, -1],
+				"foot 2": [-1, -1],
+				"knee 1": [300, 511],
+				"knee 2": [155, 523],
+				"belly": [147, 387],
+				"elbow 1": [246, 346],
+				"elbow 2": [60, 357],
+				"hand 1": [138, 272],
+				"hand 2": [138, 272],
+				"eye 1": [179, 192],
+				"eye 2": [152, 184],
+				"shoulder 1": [181, 257], 
+				"shoulder 2": [94, 254]
 			},
 			"bad quality image": false,
-			"grottoe": "my grottoe name",
-			"file": "my file name",
+			"grottoe": "296",
+			"file": "beizhou-296-a",
 			"__comment": "put a comment here if there is an issue with this sample"
+		}, 
+		{
+			"positions": {
+				"foot 1": [-1, -1],
+				"foot 2": [-1, -1],
+				"knee 1": [122, 209],
+				"knee 2": [83, 245],
+				"belly": [55, 165],
+				"elbow 1": [88, 167],
+				"elbow 2": [62, 148],
+				"hand 1": [119, 152],
+				"hand 2": [113, 111],
+				"eye 1": [117, 94],
+				"eye 2": [103, 82],
+				"shoulder 1": [100, 124], 
+				"shoulder 2": [49, 97]
+			},
+			"bad quality image": true,
+			"grottoe": "299",
+			"file": "beizhou-299-a",
+			"__comment": "put a comment here if there is an issue with this sample"
+		}, 
+		{
+			"positions": {
+				"foot 1": [234, 173],
+				"foot 2": [214, 235],
+				"knee 1": [74, 247],
+				"knee 2": [115, 231],
+				"belly": [44, 159],
+				"elbow 1": [87, 162],
+				"elbow 2": [45, 143],
+				"hand 1": [97, 111],
+				"hand 2": [65, 105],
+				"eye 1": [62, 75],
+				"eye 2": [48, 69],
+				"shoulder 1": [84, 114], 
+				"shoulder 2": [29, 108]
+			},
+			"bad quality image": true,
+			"grottoe": "299",
+			"file": "beizhou-299-b",
+			"__comment": "put a comment here if there is an issue with this sample"
+		}, 
+		{
+			"positions": {
+				"foot 1": [172, 215],
+				"foot 2": [95, 162],
+				"knee 1": [45, 219],
+				"knee 2": [95, 195],
+				"belly": [35, 147],
+				"elbow 1": [80, 132],
+				"elbow 2": [9, 120],
+				"hand 1": [68, 89],
+				"hand 2": [46, 88],
+				"eye 1": [58, 58],
+				"eye 2": [46, 62],
+				"shoulder 1": [78, 88], 
+				"shoulder 2": [25, 88]
+			},
+			"bad quality image": true,
+			"grottoe": "299",
+			"file": "beizhou-299-c",
+			"__comment": "put a comment here if there is an issue with this sample"
+		}, 
+		{
+			"positions": {
+				"foot 1": [-1, -1],
+				"foot 2": [-1, -1],
+				"knee 1": [221, 166],
+				"knee 2": [240, 146],
+				"belly": [287, 144],
+				"elbow 1": [231, 148],
+				"elbow 2": [-1, -1],
+				"hand 1": [207, 98],
+				"hand 2": [-1, -1],
+				"eye 1": [235, 69],
+				"eye 2": [-1, -1],
+				"shoulder 1": [78, 88], 
+				"shoulder 2": [25, 88]
+			},
+			"bad quality image": true,
+			"grottoe": "299",
+			"file": "beizhou-299-e",
+			"__comment": "I think this one is showing us its back"
+		}, 
+		{
+			"positions": {
+				"foot 1": [100, 235],
+				"foot 2": [-1, -1],
+				"knee 1": [192, 196],
+				"knee 2": [236, 181],
+				"belly": [278, 191],
+				"elbow 1": [222, 185],
+				"elbow 2": [-1, -1],
+				"hand 1": [157, 199],
+				"hand 2": [-1, -1],
+				"eye 1": [241, 112],
+				"eye 2": [241, 112],
+				"shoulder 1": [233, 151], 
+				"shoulder 2": [280, 137]
+			},
+			"bad quality image": true,
+			"grottoe": "299",
+			"file": "beizhou-299-f",
+			"__comment": "I think this one is showing us its back"
+		}, 
+		{
+			"positions": {
+				"foot 1": [56, 158],
+				"foot 2": [32, 81],
+				"knee 1": [133, 246],
+				"knee 2": [126, 170],
+				"belly": [277, 252],
+				"elbow 1": [423, 99],
+				"elbow 2": [225, 134],
+				"hand 1": [331, 40],
+				"hand 2": [171, 56],
+				"eye 1": [340, 114],
+				"eye 2": [312, 128],
+				"shoulder 1": [376, 158], 
+				"shoulder 2": [284, 144]
+			},
+			"bad quality image": false,
+			"grottoe": "428",
+			"file": "beizhou-428-b",
+			"__comment": ""
+		}, 
+		{
+			"positions": {
+				"foot 1": [346, 69],
+				"foot 2": [257, 116],
+				"knee 1": [275, 165],
+				"knee 2": [260, 249],
+				"belly": [134, 199],
+				"elbow 1": [186, 120],
+				"elbow 2": [38, 210],
+				"hand 1": [240, 58],
+				"hand 2": [107, 179],
+				"eye 1": [99, 80],
+				"eye 2": [77, 81],
+				"shoulder 1": [132, 114], 
+				"shoulder 2": [71, 142]
+			},
+			"bad quality image": false,
+			"grottoe": "428",
+			"file": "beizhou-428-d",
+			"__comment": ""
+		}, 
+		{
+			"positions": {
+				"foot 1": [231, 97],
+				"foot 2": [72, 72],
+				"knee 1": [302, 203],
+				"knee 2": [268, 220],
+				"belly": [468, 271],
+				"elbow 1": [624, 165],
+				"elbow 2": [359, 125],
+				"hand 1": [538, 133],
+				"hand 2": [280, 37],
+				"eye 1": [472, 94],
+				"eye 2": [469, 120],
+				"shoulder 1": [554, 102], 
+				"shoulder 2": [466, 142]
+			},
+			"bad quality image": false,
+			"grottoe": "428",
+			"file": "beizhou-428-f",
+			"__comment": ""
+		}, 
+		{
+			"positions": {
+				"foot 1": [216, 180],
+				"foot 2": [226, 224],
+				"knee 1": [150, 278],
+				"knee 2": [157, 246],
+				"belly": [84, 208],
+				"elbow 1": [144, 178],
+				"elbow 2": [50, 197],
+				"hand 1": [85, 156],
+				"hand 2": [30, 140],
+				"eye 1": [78, 80],
+				"eye 2": [59, 82],
+				"shoulder 1": [103, 118], 
+				"shoulder 2": [61, 129]
+			},
+			"bad quality image": false,
+			"grottoe": "428",
+			"file": "beizhou-428-h",
+			"__comment": ""
+		}, 
+		{
+			"positions": {
+				"foot 1": [216, 180],
+				"foot 2": [126, 241],
+				"knee 1": [187, 187],
+				"knee 2": [38, 187],
+				"belly": [133, 184],
+				"elbow 1": [145, 145],
+				"elbow 2": [120, 152],
+				"hand 1": [136, 85],
+				"hand 2": [109, 96],
+				"eye 1": [57, 94],
+				"eye 2": [45, 109],
+				"shoulder 1": [117, 99], 
+				"shoulder 2": [72, 139]
+			},
+			"bad quality image": false,
+			"grottoe": "428",
+			"file": "beizhou-428-j",
+			"__comment": ""
+		}, 
+		{
+			"positions": {
+				"foot 1": [287, 118],
+				"foot 2": [281, 135],
+				"knee 1": [213, 163],
+				"knee 2": [207, 166],
+				"belly": [139, 148],
+				"elbow 1": [102, 154],
+				"elbow 2": [100, 149],
+				"hand 1": [61, 143],
+				"hand 2": [57, 142],
+				"eye 1": [85, 90],
+				"eye 2": [75, 94],
+				"shoulder 1": [111, 108], 
+				"shoulder 2": [86, 124]
+			},
+			"bad quality image": false,
+			"grottoe": "278",
+			"file": "beizhou-278-a",
+			"__comment": ""
 		}
+		, 
+		{
+			"positions": {
+				"foot 1": [125, 108],
+				"foot 2": [21, 101],
+				"knee 1": [156, 153],
+				"knee 2": [118, 134],
+				"belly": [220, 128],
+				"elbow 1": [292, 112],
+				"elbow 2": [229, 100],
+				"hand 1": [327, 108],
+				"hand 2": [242, 85],
+				"eye 1": [270, 74],
+				"eye 2": [258, 73],
+				"shoulder 1": [265, 99], 
+				"shoulder 2": [241, 91]
+			},
+			"bad quality image": false,
+			"grottoe": "282",
+			"file": "beizhou-282-a",
+			"__comment": ""
+		}, 
+		{
+			"positions": {
+				"foot 1": [134, 170],
+				"foot 2": [44, 177],
+				"knee 1": [171, 232],
+				"knee 2": [106, 220],
+				"belly": [221, 175],
+				"elbow 1": [242, 166],
+				"elbow 2": [145, 128],
+				"hand 1": [294, 164],
+				"hand 2": [181, 176],
+				"eye 1": [243, 94],
+				"eye 2": [229, 91],
+				"shoulder 1": [229, 120], 
+				"shoulder 2": [189, 110]
+			},
+			"bad quality image": true,
+			"grottoe": "305",
+			"file": "sui-305-e",
+			"__comment": ""
+		}, 
+		{
+			"positions": {
+				"foot 1": [230, 176],
+				"foot 2": [142, 184],
+				"knee 1": [166, 227],
+				"knee 2": [119, 235],
+				"belly": [68, 184],
+				"elbow 1": [103, 169],
+				"elbow 2": [35, 167],
+				"hand 1": [77, 148],
+				"hand 2": [62, 145],
+				"eye 1": [76, 102],
+				"eye 2": [65, 100],
+				"shoulder 1": [90, 128], 
+				"shoulder 2": [51, 129]
+			},
+			"bad quality image": true,
+			"grottoe": "305",
+			"file": "sui-305-h",
+			"__comment": ""
+		}
+		
 	],
 	"__comment": "put a comment here if there is an issue you want to mention regarding your part of the annotation",
 	"authors": [
 		"If you used some help by other people, mention their names here so that they don't get forgotten",
-		"Flo"
+		"Flo",
+		"Hannah"
 	]
 }
