@@ -791,18 +791,206 @@
 				"elbow 1": [72, 267],
 				"elbow 2": [59, 298],
 				"hand 1": [81, 296],
-				"hand 2": [114, 150],
-				"eye 1": [85, 145],
-				"eye 2": [91, 151],
-				"shoulder 1": [95, 135], 
-				"shoulder 2": [104, 146]
+				"hand 2": [28, 298],
+				"eye 1": [34, 240],
+				"eye 2": [25, 242],
+				"shoulder 1": [60, 243], 
+				"shoulder 2": [42, 268]
 			},
-			"bad quality image": true,
+			"bad quality image": false,
 			"grottoe": "420",
 			"file": "sui-420-x2",
 			"__comment": ""
+		},
+		{
+			"positions": {
+				"foot 1": [-1, -1],
+				"foot 2": [-1, -1],
+				"knee 1": [-1, -1],
+				"knee 2": [-1, -1],
+				"belly": [99, 277],
+				"elbow 1": [100, 231],
+				"elbow 2": [58, 290],
+				"hand 1": [77, 203],
+				"hand 2": [43, 271],
+				"eye 1": [50, 228],
+				"eye 2": [42, 231],
+				"shoulder 1": [68, 228], 
+				"shoulder 2": [56, 255]
+			},
+			"bad quality image": false,
+			"grottoe": "420",
+			"file": "sui-420-x3",
+			"__comment": ""
+		},
+		{
+			"positions": {
+				"foot 1": [64, 100],
+				"foot 2": [52, 93],
+				"knee 1": [56, 134],
+				"knee 2": [14, 108],
+				"belly": [30, 69],
+				"elbow 1": [33, 53],
+				"elbow 2": [21, 44],
+				"hand 1": [49, 27],
+				"hand 2": [45, 25],
+				"eye 1": [71, 28],
+				"eye 2": [69, 23],
+				"shoulder 1": [61, 50], 
+				"shoulder 2": [51, 35]
+			},
+			"bad quality image": true,
+			"grottoe": "420",
+			"file": "sui-420-x5",
+			"__comment": ""
+		},
+		{
+			"positions": {
+				"foot 1": [169, 119],
+				"foot 2": [116, 108],
+				"knee 1": [202, 166],
+				"knee 2": [169, 138],
+				"belly": [221, 130],
+				"elbow 1": [271, 72],
+				"elbow 2": [195, 115],
+				"hand 1": [280, 48],
+				"hand 2": [175, 95],
+				"eye 1": [224, 63],
+				"eye 2": [213, 66],
+				"shoulder 1": [239, 86], 
+				"shoulder 2": [221, 93]
+			},
+			"bad quality image": true,
+			"grottoe": "423",
+			"file": "sui-423-a",
+			"__comment": ""
+		},
+		{
+			"positions": {
+				"foot 1": [72, 171],
+				"foot 2": [38, 174],
+				"knee 1": [73, 227],
+				"knee 2": [64, 211],
+				"belly": [135, 230],
+				"elbow 1": [169, 235],
+				"elbow 2": [149, 233],
+				"hand 1": [189, 215],
+				"hand 2": [168, 214],
+				"eye 1": [164, 178],
+				"eye 2": [154, 179],
+				"shoulder 1": [158, 200], 
+				"shoulder 2": [140, 201]
+			},
+			"bad quality image": false,
+			"grottoe": "423",
+			"file": "sui-423-c",
+			"__comment": ""
+		},
+		{
+			"positions": {
+				"foot 1": [191, 112],
+				"foot 2": [150, 85],
+				"knee 1": [194, 143],
+				"knee 2": [173, 121],
+				"belly": [247, 123],
+				"elbow 1": [261, 109],
+				"elbow 2": [230, 110],
+				"hand 1": [237, 116],
+				"hand 2": [230, 112],
+				"eye 1": [237, 68],
+				"eye 2": [229, 68],
+				"shoulder 1": [260, 87], 
+				"shoulder 2": [238, 92]
+			},
+			"bad quality image": true,
+			"grottoe": "423",
+			"file": "sui-423-d",
+			"__comment": ""
+		},
+		{
+			"positions": {
+				"foot 1": [144, 69],
+				"foot 2": [115, 94],
+				"knee 1": [132, 108],
+				"knee 2": [132, 125],
+				"belly": [80, 145],
+				"elbow 1": [52, 159],
+				"elbow 2": [42, 162],
+				"hand 1": [19, 148],
+				"hand 2": [20, 152],
+				"eye 1": [34, 113],
+				"eye 2": [25, 115],
+				"shoulder 1": [58, 122], 
+				"shoulder 2": [44, 130]
+			},
+			"bad quality image": true,
+			"grottoe": "423",
+			"file": "sui-423-g",
+			"__comment": ""
+		},
+		{
+			"positions": {
+				"foot 1": [233, 112],
+				"foot 2": [162, 125],
+				"knee 1": [199, 147],
+				"knee 2": [181, 161],
+				"belly": [132, 140],
+				"elbow 1": [145, 110],
+				"elbow 2": [109, 133],
+				"hand 1": [158, 93],
+				"hand 2": [123, 100],
+				"eye 1": [98, 90],
+				"eye 2": [91, 91],
+				"shoulder 1": [119, 102], 
+				"shoulder 2": [96, 115]
+			},
+			"bad quality image": true,
+			"grottoe": "427",
+			"file": "sui-427-b",
+			"__comment": ""
+		},
+		{
+			"positions": {
+				"foot 1": [213, 129],
+				"foot 2": [213, 148],
+				"knee 1": [166, 152],
+				"knee 2": [162, 167],
+				"belly": [88, 150],
+				"elbow 1": [102, 133],
+				"elbow 2": [61, 151],
+				"hand 1": [74, 129],
+				"hand 2": [69, 131],
+				"eye 1": [46, 95],
+				"eye 2": [39, 99],
+				"shoulder 1": [76, 109], 
+				"shoulder 2": [54, 122]
+			},
+			"bad quality image": true,
+			"grottoe": "427",
+			"file": "sui-427-d",
+			"__comment": ""
+		},
+		{
+			"positions": {
+				"foot 1": [182, 89],
+				"foot 2": [132, 78],
+				"knee 1": [128, 105],
+				"knee 2": [130, 112],
+				"belly": [98, 86],
+				"elbow 1": [114, 55],
+				"elbow 2": [66, 83],
+				"hand 1": [148, 63],
+				"hand 2": [44, 65],
+				"eye 1": [55, 39],
+				"eye 2": [49, 42],
+				"shoulder 1": [89, 45], 
+				"shoulder 2": [64, 61]
+			},
+			"bad quality image": true,
+			"grottoe": "427",
+			"file": "sui-427-f",
+			"__comment": ""
 		}
-		
 		
 	],
 	"__comment": "put a comment here if there is an issue you want to mention regarding your part of the annotation",
