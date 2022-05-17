@@ -1009,7 +1009,7 @@
 			},
 			"bad quality image": false,
 			"grottoe": "290",
-			"file": "sui-290-1b",
+			"file": "beizhou-290-1b",
 			"__comment": ""
 		},
 		{
@@ -1030,7 +1030,7 @@
 			},
 			"bad quality image": false,
 			"grottoe": "290",
-			"file": "sui-290-1e",
+			"file": "beizhou-290-1e",
 			"__comment": ""
 		},
 		{
@@ -1051,7 +1051,406 @@
 			},
 			"bad quality image": false,
 			"grottoe": "290",
-			"file": "sui-290-1g",
+			"file": "beizhou-290-1g",
+			"__comment": ""
+		},
+		{
+			"positions": {
+				"foot 1": [355, 136],
+				"foot 2": [301, 136],
+				"knee 1": [248, 237],
+				"knee 2": [238, 272],
+				"belly": [125, 232],
+				"elbow 1": [102, 190],
+				"elbow 2": [58, 206],
+				"hand 1": [69, 129],
+				"hand 2": [41, 143],
+				"eye 1": [114, 90],
+				"eye 2": [93, 90],
+				"shoulder 1": [156, 131], 
+				"shoulder 2": [98, 142]
+			},
+			"bad quality image": false,
+			"grottoe": "290",
+			"file": "beizhou-290-1h",
+			"__comment": ""
+		},
+		{
+			"positions": {
+				"foot 1": [287, 334],
+				"foot 2": [204, 283],
+				"knee 1": [181, 337],
+				"knee 2": [66, 306],
+				"belly": [123, 217],
+				"elbow 1": [183, 186],
+				"elbow 2": [82, 188],
+				"hand 1": [119, 142],
+				"hand 2": [98, 162],
+				"eye 1": [148, 96],
+				"eye 2": [132, 93],
+				"shoulder 1": [187, 141], 
+				"shoulder 2": [109, 144]
+			},
+			"bad quality image": false,
+			"grottoe": "290",
+			"file": "beizhou-290-1k",
+			"__comment": ""
+		},
+		{
+			"positions": {
+				"foot 1": [422, 552],
+				"foot 2": [336, 459],
+				"knee 1": [330, 593],
+				"knee 2": [118, 528],
+				"belly": [168, 417],
+				"elbow 1": [324, 364],
+				"elbow 2": [82, 362],
+				"hand 1": [441, 409],
+				"hand 2": [191, 300],
+				"eye 1": [190, 148],
+				"eye 2": [163, 152],
+				"shoulder 1": [265, 224], 
+				"shoulder 2": [154, 237]
+			},
+			"bad quality image": false,
+			"grottoe": "290",
+			"file": "beizhou-290-1m",
+			"__comment": ""
+		},
+		{
+			"positions": {
+				"foot 1": [420, 564],
+				"foot 2": [283, 403],
+				"knee 1": [306, 672],
+				"knee 2": [81, 597],
+				"belly": [150, 410],
+				"elbow 1": [261, 415],
+				"elbow 2": [90, 399],
+				"hand 1": [280, 260],
+				"hand 2": [86, 278],
+				"eye 1": [212, 174],
+				"eye 2": [182, 174],
+				"shoulder 1": [248, 282], 
+				"shoulder 2": [124, 258]
+			},
+			"bad quality image": false,
+			"grottoe": "290",
+			"file": "beizhou-290-1o",
+			"__comment": ""
+		},
+		{
+			"positions": {
+				"foot 1": [277, 534],
+				"foot 2": [246, 479],
+				"knee 1": [232, 618],
+				"knee 2": [61, 524],
+				"belly": [126, 426],
+				"elbow 1": [306, 472],
+				"elbow 2": [84, 366],
+				"hand 1": [416, 450],
+				"hand 2": [44, 274],
+				"eye 1": [184, 199],
+				"eye 2": [146, 189],
+				"shoulder 1": [228, 282], 
+				"shoulder 2": [122, 282]
+			},
+			"bad quality image": false,
+			"grottoe": "290",
+			"file": "beizhou-290-1r",
+			"__comment": ""
+		},
+		{
+			"positions": {
+				"foot 1": [385, 712],
+				"foot 2": [394, 624],
+				"knee 1": [328, 610],
+				"knee 2": [308, 622],
+				"belly": [205, 519],
+				"elbow 1": [300, 500],
+				"elbow 2": [119, 508],
+				"hand 1": [381, 518],
+				"hand 2": [95, 399],
+				"eye 1": [232, 323],
+				"eye 2": [195, 327],
+				"shoulder 1": [225, 412], 
+				"shoulder 2": [137, 415]
+			},
+			"bad quality image": false,
+			"grottoe": "290",
+			"file": "beizhou-290-1s",
+			"__comment": ""
+		},
+		{
+			"positions": {
+				"foot 1": [300, 640],
+				"foot 2": [371, 533],
+				"knee 1": [247, 552],
+				"knee 2": [200, 570],
+				"belly": [119, 488],
+				"elbow 1": [251, 438],
+				"elbow 2": [14, 361],
+				"hand 1": [366, 429],
+				"hand 2": [33, 292],
+				"eye 1": [172, 275],
+				"eye 2": [135, 274],
+				"shoulder 1": [185, 366], 
+				"shoulder 2": [62, 342]
+			},
+			"bad quality image": false,
+			"grottoe": "290",
+			"file": "beizhou-290-1u",
+			"__comment": ""
+		},
+		{
+			"positions": {
+				"foot 1": [255, 405],
+				"foot 2": [179, 474],
+				"knee 1": [355, 493],
+				"knee 2": [213, 535],
+				"belly": [411, 399],
+				"elbow 1": [623, 238],
+				"elbow 2": [359, 330],
+				"hand 1": [640, 114],
+				"hand 2": [269, 357],
+				"eye 1": [529, 209],
+				"eye 2": [501, 209],
+				"shoulder 1": [549, 279], 
+				"shoulder 2": [424, 274]
+			},
+			"bad quality image": false,
+			"grottoe": "290",
+			"file": "beizhou-290-1v",
+			"__comment": ""
+		},
+		{
+			"positions": {
+				"foot 1": [169, 405],
+				"foot 2": [131, 449],
+				"knee 1": [244, 511],
+				"knee 2": [119, 517],
+				"belly": [309, 418],
+				"elbow 1": [546, 355],
+				"elbow 2": [286, 334],
+				"hand 1": [635, 332],
+				"hand 2": [373, 327],
+				"eye 1": [456, 246],
+				"eye 2": [421, 236],
+				"shoulder 1": [456, 301], 
+				"shoulder 2": [360, 283]
+			},
+			"bad quality image": false,
+			"grottoe": "290",
+			"file": "beizhou-290-1w",
+			"__comment": ""
+		},
+		{
+			"positions": {
+				"foot 1": [260, 526],
+				"foot 2": [191, 558],
+				"knee 1": [465, 578],
+				"knee 2": [306, 613],
+				"belly": [430, 463],
+				"elbow 1": [505, 371],
+				"elbow 2": [323, 422],
+				"hand 1": [539, 314],
+				"hand 2": [387, 360],
+				"eye 1": [367, 228],
+				"eye 2": [334, 232],
+				"shoulder 1": [453, 310], 
+				"shoulder 2": [338, 322]
+			},
+			"bad quality image": false,
+			"grottoe": "290",
+			"file": "beizhou-290-1y",
+			"__comment": ""
+		},
+		{
+			"positions": {
+				"foot 1": [278, 503],
+				"foot 2": [206, 572],
+				"knee 1": [472, 583],
+				"knee 2": [270, 606],
+				"belly": [422, 468],
+				"elbow 1": [521, 387],
+				"elbow 2": [315, 411],
+				"hand 1": [544, 298],
+				"hand 2": [375, 358],
+				"eye 1": [455, 222],
+				"eye 2": [419, 223],
+				"shoulder 1": [462, 316], 
+				"shoulder 2": [355, 315]
+			},
+			"bad quality image": false,
+			"grottoe": "290",
+			"file": "beizhou-290-1z",
+			"__comment": ""
+		},
+		{
+			"positions": {
+				"foot 1": [720, 532],
+				"foot 2": [332, 563],
+				"knee 1": [944, 474],
+				"knee 2": [589, 563],
+				"belly": [800, 353],
+				"elbow 1": [856, 305],
+				"elbow 2": [531, 253],
+				"hand 1": [857, 149],
+				"hand 2": [459, 131],
+				"eye 1": [676, 120],
+				"eye 2": [644, 120],
+				"shoulder 1": [786, 201], 
+				"shoulder 2": [625, 221]
+			},
+			"bad quality image": false,
+			"grottoe": "296",
+			"file": "beizhou-296-1b",
+			"__comment": ""
+		},
+		{
+			"positions": {
+				"foot 1": [574, 652],
+				"foot 2": [298, 538],
+				"knee 1": [320, 620],
+				"knee 2": [196, 699],
+				"belly": [103, 493],
+				"elbow 1": [237, 456],
+				"elbow 2": [124, 415],
+				"hand 1": [266, 345],
+				"hand 2": [185, 322],
+				"eye 1": [157, 209],
+				"eye 2": [119, 195],
+				"shoulder 1": [205, 323], 
+				"shoulder 2": [62, 304]
+			},
+			"bad quality image": false,
+			"grottoe": "299",
+			"file": "beizhou-299-1b",
+			"__comment": ""
+		},
+		{
+			"positions": {
+				"foot 1": [580, 606],
+				"foot 2": [248, 456],
+				"knee 1": [294, 552],
+				"knee 2": [139, 639],
+				"belly": [127, 444],
+				"elbow 1": [247, 392],
+				"elbow 2": [39, 348],
+				"hand 1": [231, 285],
+				"hand 2": [130, 279],
+				"eye 1": [187, 174],
+				"eye 2": [143, 178],
+				"shoulder 1": [232, 261], 
+				"shoulder 2": [94, 252]
+			},
+			"bad quality image": false,
+			"grottoe": "299",
+			"file": "beizhou-299-1c",
+			"__comment": ""
+		},
+		{
+			"positions": {
+				"foot 1": [330, 546],
+				"foot 2": [69, 591],
+				"knee 1": [499, 678],
+				"knee 2": [279, 646],
+				"belly": [604, 482],
+				"elbow 1": [691, 424],
+				"elbow 2": [399, 377],
+				"hand 1": [708, 356],
+				"hand 2": [383, 467],
+				"eye 1": [593, 198],
+				"eye 2": [564, 205],
+				"shoulder 1": [624, 287], 
+				"shoulder 2": [469, 298]
+			},
+			"bad quality image": false,
+			"grottoe": "299",
+			"file": "beizhou-299-1d",
+			"__comment": ""
+		},
+		{
+			"positions": {
+				"foot 1": [293, 511],
+				"foot 2": [515, 464],
+				"knee 1": [479, 438],
+				"knee 2": [557, 350],
+				"belly": [652, 370],
+				"elbow 1": [533, 355],
+				"elbow 2": [596, 315],
+				"hand 1": [469, 249],
+				"hand 2": [500, 231],
+				"eye 1": [527, 170],
+				"eye 2": [511, 162],
+				"shoulder 1": [536, 266], 
+				"shoulder 2": [636, 213]
+			},
+			"bad quality image": false,
+			"grottoe": "299",
+			"file": "beizhou-299-1e",
+			"__comment": ""
+		},
+		{
+			"positions": {
+				"foot 1": [201, 152],
+				"foot 2": [55, 113],
+				"knee 1": [222, 350],
+				"knee 2": [219, 267],
+				"belly": [427, 361],
+				"elbow 1": [657, 139],
+				"elbow 2": [363, 203],
+				"hand 1": [546, 64],
+				"hand 2": [288, 90],
+				"eye 1": [516, 175],
+				"eye 2": [482, 181],
+				"shoulder 1": [590, 231], 
+				"shoulder 2": [460, 221]
+			},
+			"bad quality image": false,
+			"grottoe": "428",
+			"file": "beizhou-428-1b",
+			"__comment": ""
+		},
+		{
+			"positions": {
+				"foot 1": [271, 125],
+				"foot 2": [82, 98],
+				"knee 1": [370, 283],
+				"knee 2": [333, 243],
+				"belly": [538, 319],
+				"elbow 1": [726, 188],
+				"elbow 2": [412, 143],
+				"hand 1": [635, 157],
+				"hand 2": [336, 51],
+				"eye 1": [544, 113],
+				"eye 2": [536, 147],
+				"shoulder 1": [640, 123], 
+				"shoulder 2": [542, 162]
+			},
+			"bad quality image": false,
+			"grottoe": "428",
+			"file": "beizhou-428-1e",
+			"__comment": ""
+		},
+		{
+			"positions": {
+				"foot 1": [568, 452],
+				"foot 2": [598, 570],
+				"knee 1": [451, 620],
+				"knee 2": [437, 723],
+				"belly": [199, 562],
+				"elbow 1": [376, 477],
+				"elbow 2": [113, 541],
+				"hand 1": [237, 441],
+				"hand 2": [56, 403],
+				"eye 1": [189, 203],
+				"eye 2": [133, 209],
+				"shoulder 1": [273, 313], 
+				"shoulder 2": [143, 333]
+			},
+			"bad quality image": false,
+			"grottoe": "428",
+			"file": "beizhou-428-1g",
 			"__comment": ""
 		}
 		
